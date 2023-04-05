@@ -5,8 +5,8 @@ import git from '../images/git.png'
 
 const About = () => {
     return (
-        <div className="">
-            <div className='flex flex-col items-center pt-14'>
+        <div className="min-h-[calc(100vh-120px)]">
+<div className='flex flex-col items-center pt-14'>
 
 <img className='rounded-full border-4 p-2 max-w-[300px]' src={author} alt="" />
 <p className='font-serif text-xl pt-6 text-center'>Hi, I am Shazzad Hossen. I am a fullstack web developer. <br /> I am good at HTML5,CSS3,JavaScript,  Tailwind Css, Node.js, React.js, Next.js, MongoDB,Firebase. <br />
